@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(79, 225, 235);
+}
+
+h1{
+    color: #1460d3;
+    text-align: center;
+    background-color: rgb(2, 2, 2);
+}
+.mi-parrafo {
+    font-size: 1rem;
+    font-family:"times New Roman",'Times New Roman', Times, serif ;
+}
+.parrafo-1 {
+    color: rgb(55, 3, 104);
+}
+.parrafo-2 {
+    color: rgb(1, 12, 19);
+}
+.parrafo-3 {
+    color: rgb(96, 9, 131);
+}
+p{
+    color: rgb(8, 7, 7);
+    text-align: center;
+    
+}
+.catalogo1-index{
+    background-color: rgb(243, 3, 151)
+}
+
+.sociales{
+    display: flex;
+    align-items: center;
+    height: auto;
+}
+.sociales i{
+    color: white;
+    font-size: 50px;
+    padding: 10px;
+    transition: 0.5s;
+    border-radius: 50%;
+}
+.sociales i:hover{
+    background: rgba(0, 0, 0, 5);
+    border-radius: 50%;
+}
